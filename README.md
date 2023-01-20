@@ -1,2 +1,1 @@
-# SCSS-SASS-Website
-https://nmgdkl.github.io/SCSS-SASS-Website/
+<a href="https://nmgdkl.github.io/SCSS-SASS-Website/">CLICK HERE </a>
